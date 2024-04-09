@@ -1,0 +1,6 @@
+@Athena_HostAddress = http://localhost:5132
+
+GET {{Athena_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
